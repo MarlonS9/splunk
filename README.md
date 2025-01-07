@@ -57,7 +57,13 @@ To get “Gender with the most fraudulent activity by category”, type sourcety
 
 
 
+# Conclusion
+The implementation of a Splunk-based dashboard significantly enhanced our fraud detection capabilities at Commonwealth Bank. This data visualization tool allowed for rapid identification of suspicious activities, enabling prompt preventive measures against potential fraud. The dashboard's effectiveness lies in its ability to:
+- Consolidate and visualize complex data sets
+- Highlight anomalies and patterns indicative of fraudulent behavior
+- Facilitate quick triage and response to potential threats
 
+By leveraging these visual analytics, I was able to streamline our fraud detection process, ultimately safeguarding both the bank and its customers from financial losses. This approach has proven to be more efficient and effective than traditional methods, allowing for a proactive stance in fraud prevention.
 
 
 
