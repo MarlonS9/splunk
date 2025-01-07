@@ -1,4 +1,4 @@
 <p align="center">
-[![image](https://github.com/user-attachments/assets/0b3e1064-7004-4c99-b383-b8062507b375)](https://imgur.com/aaIsFC6)
+  <img src="https://i.imgur.com/aaIsFC6.png" alt="Traffic Examination"/>
 
 </p>
